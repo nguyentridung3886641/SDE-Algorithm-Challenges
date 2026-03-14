@@ -90,5 +90,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 ---
 
 > **"HAPPY CODE - HAPPY MONEY - HAPPY LIFE"**
+
 > **"CODE FOR PASS - CODE FOR FOOD - CODE FOR FUN"**
+
 > **"KEEP THE FIRE BURNING. STRIKE WHILE THE IRON IS HOT"**
