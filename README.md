@@ -2,10 +2,11 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/5.5) \* **Target:** 400 Problems
+![Progress](https://geps.dev/progress/5.5)
 
+- **Target:** 400 Problems
 - **Completed:** 22/400
-- **Current Phase:** Java OOP (Lesson 7)
+- **Current Phase:** Phase 1
 
 ---
 
@@ -20,12 +21,30 @@
 
 ---
 
-## 📚 Recent Solved Problems
+## 🛠 Skills Breakdown (Algorithm Tags)
 
-- [x] Lesson 07: Student Management (Java)
-- [x] Lesson 07: Device Management (Java)
-- [ ] Lesson 08: Static & Utility Classes (Pending)
+_Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn SDE._
+
+- [x] **Array & String:** 25/50 (Basis)
+- [x] **Linked List:** 10/30 (Learning)
+- [ ] **Stack & Queue:** 0/20
+- [ ] **Tree & Graph:** 0/50
+- [ ] **Recursion & Backtracking:** 5/30
+- [ ] **Dynamic Programming:** 0/50
+- [ ] **Sorting & Searching:** 20/30
 
 ---
 
-> "Kiên trì là chìa khóa của thành công. Cày 12h/ngày vì một tương lai SDE!"
+## 🔥 Daily Problem Solving (Self-Practice)
+
+_Nhật ký rèn luyện tư duy độc lập ngoài giáo trình._
+
+| Date  | Problem Name                                                          | Platform | Difficulty | Complexity |                  Solution                  |
+| :---- | :-------------------------------------------------------------------- | :------: | :--------: | :--------: | :----------------------------------------: |
+| 13/03 | [Two Sum](https://leetcode.com/problems/two-sum/)                     | LeetCode |  🟢 Easy   |    O(n)    |      [View](./algorithms/TwoSum.java)      |
+| 12/03 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode |  🟢 Easy   |    O(n)    | [View](./algorithms/ValidParentheses.java) |
+| 11/03 | [Binary Search](https://leetcode.com/problems/binary-search/)         | LeetCode |  🟢 Easy   |  O(log n)  |   [View](./algorithms/BinarySearch.java)   |
+
+---
+
+> "Work hard in silence, let your success be your noise. Cày 12h/ngày cho giấc mơ SDE Global!"
