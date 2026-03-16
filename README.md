@@ -1,4 +1,4 @@
-# 🚀 400 Problems Of HackerRank + LeetCode Algorithms & Data Structure Using Java + C
+# 🚀 400 HackerRank & LeetCode Algorithms Problems Using Java + C
 
 ## 📊 Overall Progress
 
