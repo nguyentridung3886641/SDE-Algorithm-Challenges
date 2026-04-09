@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/5.5)
+![Progress](https://geps.dev/progress/5.7 5)
 
 - **Target:** 400 Problems
-- **Completed:** 22/400
+- **Completed:** 23/400
 - **Current Phase:** Phase 1
 
 ---
@@ -47,7 +47,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 14  | 10/03 | <a href="https://www.hackerrank.com/challenges/divisible-sum-pairs/problem" target="_blank">Divisible Sum Pairs</a>              | HackerRank |  🟢 Easy   |    $\mathcal{O}(n)$     |      [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Function/DivisibleSumPairs.c)       |
 | 15  | 11/03 | <a href="https://www.hackerrank.com/challenges/migratory-birds/problem" target="_blank">Migratory Birds</a>                      | HackerRank |  🟢 Easy   |    $\mathcal{O}(n)$     |        [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Function/MigratoryBirds.c)        |
 | 16  | 11/03 | <a href="https://www.hackerrank.com/challenges/day-of-the-programmer/problem" target="_blank">Day of the Programmer</a>          | HackerRank |  🟢 Easy   |    $\mathcal{O}(1)$     |      [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Function/DayoftheProgrammer.c)      |
-| 17  | 12/03 | []()                                                                                                                             | HackerRank |  🟢 Easy   | $\mathcal{O}(n \log n)$ |                                                    [View](./)                                                     |
+| 17  | 12/03 | [view](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/StringTokens.java)                          | HackerRank |  🟢 Easy   | $\mathcal{O}(n \log n)$ |                    [View](./https://www.hackerrank.com/challenges/java-string-tokens/problem)                     |
 | 18  | 12/03 | []()                                                                                                                             | HackerRank |  🟢 Easy   |    $\mathcal{O}(n)$     |                                                    [View](./)                                                     |
 | 19  | 13/03 | <a href="https://www.hackerrank.com/challenges/find-digits/problem" target="_blank">Find Digits</a>                              | HackerRank |  🟢 Easy   |  $\mathcal{O}(\log n)$  |            [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Math/FindDigits.c)            |
 | 20  | 13/03 | <a href="https://www.hackerrank.com/challenges/drawing-book/problem" target="_blank">Drawing Book</a>                            | HackerRank |  🟢 Easy   |    $\mathcal{O}(1)$     |           [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Math/DrawingBook.c)            |
