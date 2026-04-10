@@ -54,6 +54,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 21  | 14/03 | [Identity Matrix](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/IdentityMatrix.java)            | HackerRank |  🟢 Easy   |    $\mathcal{O}(n)$     |         [View](https://www.hackerrank.com/challenges/identity-matrix/problem)         |
 | 22  | 14/03 | [CamelCase](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/CamelCase.java)                       | HackerRank |  🟢 Easy   |    $\mathcal{O}(n)$     |            [View](https://www.hackerrank.com/challenges/camelcase/problem)            |
 | 23  | 15/03 | [Funny String](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/FunnyString.java)                  | HackerRank |  🟢 Easy   |    $\mathcal{O}(n)$     |          [View](https://www.hackerrank.com/challenges/funny-string/problem)           |
+| 24  | 10/04 | [Strong Password](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/FunnyString.java)               | HackerRank |  🟢 Easy   |    $\mathcal{O}(n)$     |         [View](https://www.hackerrank.com/challenges/strong-password/problem)         |
 
 </details>
 
