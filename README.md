@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/7.25)
+![Progress](https://geps.dev/progress/7.5)
 
 - **Target:** 400 Problems
-- **Completed:** 29/400
+- **Completed:** 30/400
 - **Current Phase:** Phase 1
 
 ---
@@ -57,7 +57,8 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 24  | 10/04 | [Strong Password](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/StrongPassword.c)                  | HackerRank |  🟢 Easy   |         [View](https://www.hackerrank.com/challenges/strong-password/problem)         |
 | 25  | 10/04 | [Alternating Characters](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/AlternatingCharacters.c)    | HackerRank |  🟢 Easy   |     [View](https://www.hackerrank.com/challenges/alternating-characters/problem)      |
 | 26  | 10/04 | [Beautiful Binary String](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/BeautifulBinaryString.c)   | HackerRank |  🟢 Easy   |     [View](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)     |
-| 27  | 10/04 | [Valid Palindrome](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/ValidPalindrome.java)          | HackerRank |  🟢 Easy   |                [View](https://leetcode.com/problems/valid-palindrome/)                |
+| 27  | 10/04 | [Valid Palindrome](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/ValidPalindrome.java)          |  LeetCode  |  🟢 Easy   |                [View](https://leetcode.com/problems/valid-palindrome/)                |
+| 28  | 11/04 | [Reverse String](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/ReverseString.c)                    |  LeetCode  |  🟢 Easy   |                 [View](https://leetcode.com/problems/reverse-string/)                 |
 
 </details>
 
