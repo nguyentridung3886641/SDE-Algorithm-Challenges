@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/7.75)
+![Progress](https://geps.dev/progress/8)
 
 - **Target:** 400 Problems
-- **Completed:** 31/400
+- **Completed:** 32/400
 - **Current Phase:** Phase 1
 
 ---
@@ -60,6 +60,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 27  | 10/04 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                      |  LeetCode  |  🟢 Easy   |        [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/ValidPalindrome.java)        |
 | 28  | 11/04 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                          |  LeetCode  |  🟢 Easy   |            [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/ReverseString.c)            |
 | 29  | 11/04 | [ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |  LeetCode  |  🟢 Easy   | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/FirstUniqueCharacterinaString.java) |
+| 30  | 11/04 | [ Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1975055810/)                    |  LeetCode  |  🟢 Easy   |         [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/ValidAnagram.java)          |
 
 </details>
 
