@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/8.75)
+![Progress](https://geps.dev/progress/9)
 
 - **Target:** 400 Problems
-- **Completed:** 35/400
+- **Completed:** 36/400
 - **Current Phase:** Phase 1
 
 ---
@@ -74,6 +74,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | :-- | :---- | :--------------------------------------------------------------------------------------- | :--------: | :--------: | :--------------------------------------------------------------------------------------------------------: |
 | 01  | 16/03 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | HackerRank | 🟡 Medium  |  [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/RecursiveDigitSum.c)   |
 | 02  | 16/03 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem)   | HackerRank | 🟡 Medium  | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/FibonacciModified.java) |
+| 03  | 12/04 | [Count and Say](https://leetcode.com/problems/count-and-say/)                            | HackerRank | 🟡 Medium  |   [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/CountAndSay.java)   |
 
 </details>
 
