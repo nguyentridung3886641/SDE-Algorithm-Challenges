@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/8.5)
+![Progress](https://geps.dev/progress/8.75)
 
 - **Target:** 400 Problems
-- **Completed:** 34/400
+- **Completed:** 35/400
 - **Current Phase:** Phase 1
 
 ---
@@ -63,6 +63,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 30  | 11/04 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1975055810/)                                                                           |  LeetCode  |  🟢 Easy   |            [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/ValidAnagram.java)             |
 | 31  | 11/04 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/1975108575/)                                                           |  LeetCode  |  🟢 Easy   |         [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/LongestCommonPrefix.java)         |
 | 32  | 12/04 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1975602670/) |  LeetCode  |  🟢 Easy   | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/FindtheIndexoftheFirstOccurrenceinaString.c) |
+| 33  | 12/04 | [Add Strings](https://leetcode.com/problems/add-strings/submissions/1976109029/)                                                                               |  LeetCode  |  🟢 Easy   |                [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/AddStrings.c)                 |
 
 </details>
 
