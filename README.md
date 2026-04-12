@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/9)
+![Progress](https://geps.dev/progress/9.25)
 
 - **Target:** 400 Problems
-- **Completed:** 36/400
+- **Completed:** 37/400
 - **Current Phase:** Phase 1
 
 ---
@@ -64,6 +64,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 31  | 11/04 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/1975108575/)                                                           |  LeetCode  |  🟢 Easy   |         [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/LongestCommonPrefix.java)         |
 | 32  | 12/04 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1975602670/) |  LeetCode  |  🟢 Easy   | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/FindtheIndexoftheFirstOccurrenceinaString.c) |
 | 33  | 12/04 | [Add Strings](https://leetcode.com/problems/add-strings/submissions/1976109029/)                                                                               |  LeetCode  |  🟢 Easy   |                [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/AddStrings.c)                 |
+| 34  | 12/04 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/submissions/1976792196/)                                                                     |  LeetCode  |  🟢 Easy   |           [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/RomantoInteger.java)            |
 
 </details>
 
