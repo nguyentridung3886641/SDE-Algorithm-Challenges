@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/9.5)
+![Progress](https://geps.dev/progress/9.75)
 
 - **Target:** 400 Problems
-- **Completed:** 38/400
+- **Completed:** 39/400
 - **Current Phase:** Phase 1
 
 ---
@@ -65,7 +65,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 32  | 12/04 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1975602670/) |  LeetCode  |  🟢 Easy   | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/FindtheIndexoftheFirstOccurrenceinaString.c) |
 | 33  | 12/04 | [Add Strings](https://leetcode.com/problems/add-strings/submissions/1976109029/)                                                                               |  LeetCode  |  🟢 Easy   |                [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/AddStrings.c)                 |
 | 34  | 12/04 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/submissions/1976792196/)                                                                     |  LeetCode  |  🟢 Easy   |           [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/RomantoInteger.java)            |
-| 35  | 13/04 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                                                        |  LeetCode  |  🟢 Easy   |          [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/LongestPalidrome.java)           |
+| 35  | 13/04 | [Longest Palindrome](https://leetcode.com/problems/detect-capital/)                                                                                            |  LeetCode  |  🟢 Easy   |               [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/DetectCapital.c)               |
 
 </details>
 
