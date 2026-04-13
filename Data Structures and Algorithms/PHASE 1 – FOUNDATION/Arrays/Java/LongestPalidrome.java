@@ -4,7 +4,7 @@ class Solution {
         int[] freq = new int[58];
         int palindromeLength = 0;
         for (int i = 0; i < sLength; i++) {
-            int index = s.charAt(i) - 'a';
+            int index = s.charAt(i) - 'A';
             ++freq[index];
         }
         for (int i : freq) {
