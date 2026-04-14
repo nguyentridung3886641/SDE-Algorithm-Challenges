@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/10.75)
+![Progress](https://geps.dev/progress/11)
 
 - **Target:** 400 Problems
-- **Completed:** 43/400
+- **Completed:** 44/400
 - **Current Phase:** Phase 1
 
 ---
@@ -70,6 +70,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 37  | 14/04 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                                |  LeetCode  |  🟢 Easy   |      [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/ReverseWordsinaStringIII.java)       |
 | 38  | 14/04 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)                                                                             | HackerRank |  🟢 Easy   |          [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/MarsExploration.java)           |
 | 39  | 14/04 | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)                                                                                 | HackerRank |  🟢 Easy   |               [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/C/CaesarCipher.c)               |
+| 40  | 14/04 | [HackerRank in a String](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)                                                                        | HackerRank |  🟢 Easy   |        [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/HackerRankinaString!.java)        |
 
 </details>
 
