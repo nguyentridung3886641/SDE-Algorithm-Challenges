@@ -68,7 +68,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 35  | 13/04 | [Longest Palindrome](https://leetcode.com/problems/detect-capital/)                                                                                            |  LeetCode  |  🟢 Easy   |               [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/DetectCapital.c)               |
 | 36  | 13/04 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                                                  |  LeetCode  |  🟢 Easy   |      [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/ReverseWordsinaStringIII.java)       |
 | 37  | 14/04 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                                                |  LeetCode  |  🟢 Easy   |      [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/ReverseWordsinaStringIII.java)       |
-| 38  | 14/04 | [Is Subsequence](https://www.hackerrank.com/challenges/mars-exploration/problem)                                                                               |  LeetCode  |  🟢 Easy   |      [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/ReverseWordsinaStringIII.java)       |
+| 38  | 14/04 | [Is Subsequence](https://www.hackerrank.com/challenges/mars-exploration/problem)                                                                               |  LeetCode  |  🟢 Easy   |          [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/MarsExploration.java)           |
 
 </details>
 
