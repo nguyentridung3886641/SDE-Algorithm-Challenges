@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/11.25)
+![Progress](https://geps.dev/progress/11.75)
 
 - **Target:** 400 Problems
-- **Completed:** 45/400
+- **Completed:** 47/400
 - **Current Phase:** Phase 1
 
 ---
@@ -72,6 +72,8 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 39  | 14/04 | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)                                                                                 | HackerRank |  🟢 Easy   |               [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/C/CaesarCipher.c)               |
 | 40  | 14/04 | [HackerRank in a String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)                                                                 | HackerRank |  🟢 Easy   |        [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/HackerRankinaString!.java)        |
 | 41  | 15/04 | [Weighted Uniform String](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)                                                               | HackerRank |  🟢 Easy   |       [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/WeightedUniformString.java)        |
+| 42  | 15/04 | [String to Integer](hhttps://leetcode.com/problems/string-to-integer-atoi/)                                                                                    |  LeetCode  |  🟢 Easy   |       [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/WeightedUniformString.java)        |
+| 41  | 15/04 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)                                                            |  LeetCode  |  🟢 Easy   |          [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/C/ReverseVowelsofaString.c)          |
 
 </details>
 
