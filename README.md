@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/11.75)
+![Progress](https://geps.dev/progress/12)
 
 - **Target:** 400 Problems
-- **Completed:** 47/400
+- **Completed:** 48/400
 - **Current Phase:** Phase 1
 
 ---
@@ -72,19 +72,20 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 39  | 14/04 | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)                                                                                 | HackerRank |  🟢 Easy   |               [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/C/CaesarCipher.c)               |
 | 40  | 14/04 | [HackerRank in a String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)                                                                 | HackerRank |  🟢 Easy   |        [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/HackerRankinaString!.java)        |
 | 41  | 15/04 | [Weighted Uniform String](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)                                                               | HackerRank |  🟢 Easy   |       [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/WeightedUniformString.java)        |
-| 42  | 15/04 | [String to Integer](hhttps://leetcode.com/problems/string-to-integer-atoi/)                                                                                    |  LeetCode  |  🟢 Easy   |       [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/WeightedUniformString.java)        |
-| 41  | 15/04 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)                                                            |  LeetCode  |  🟢 Easy   |          [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/C/ReverseVowelsofaString.c)          |
+| 42  | 15/04 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)                                                            |  LeetCode  |  🟢 Easy   |          [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/C/ReverseVowelsofaString.c)          |
+| 43  | 16/04 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/1979828425/)                                                               |  LeetCode  |  🟢 Easy   |             [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/C/LengthofLastWord.c)             |
 
 </details>
 
 <details>
 <summary><b>🟡 MEDIUM PROBLEMS (SOLVED)</b></summary>
 
-| STT | Date  | Problem Name                                                                             |  Platform  | Difficulty |                                                  Solution                                                  |
-| :-- | :---- | :--------------------------------------------------------------------------------------- | :--------: | :--------: | :--------------------------------------------------------------------------------------------------------: |
-| 01  | 16/03 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | HackerRank | 🟡 Medium  |  [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/RecursiveDigitSum.c)   |
-| 02  | 16/03 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem)   | HackerRank | 🟡 Medium  | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/FibonacciModified.java) |
-| 03  | 12/04 | [Count and Say](https://leetcode.com/problems/count-and-say/)                            |  LeetCode  | 🟡 Medium  |   [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/CountAndSay.java)   |
+| STT | Date  | Problem Name                                                                             |  Platform  | Difficulty |                                                     Solution                                                      |
+| :-- | :---- | :--------------------------------------------------------------------------------------- | :--------: | :--------: | :---------------------------------------------------------------------------------------------------------------: |
+| 01  | 16/03 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | HackerRank | 🟡 Medium  |      [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/RecursiveDigitSum.c)      |
+| 02  | 16/03 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem)   | HackerRank | 🟡 Medium  |    [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/FibonacciModified.java)     |
+| 03  | 12/04 | [Count and Say](https://leetcode.com/problems/count-and-say/)                            |  LeetCode  | 🟡 Medium  |      [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/CountAndSay.java)       |
+| 04  | 15/04 | [String to Integer](hhttps://leetcode.com/problems/string-to-integer-atoi/)              |  LeetCode  |  🟢 Easy   | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/WeightedUniformString.java) |
 
 </details>
 
