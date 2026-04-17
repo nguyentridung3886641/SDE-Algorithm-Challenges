@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/12.75)
+![Progress](https://geps.dev/progress/13)
 
 - **Target:** 400 Problems
-- **Completed:** 51/400
+- **Completed:** 52/400
 - **Current Phase:** Phase 1
 
 ---
@@ -77,6 +77,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 44  | 17/04 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)                                                                            |  LeetCode  |  🟢 Easy   |         [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/IsomorphicStrings.java)          |
 | 45  | 17/04 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/)                                                                                        |  LeetCode  |  🟢 Easy   |            [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/WordPattern.java)             |
 | 46  | 17/04 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/)                                                                          |  LeetCode  |  🟢 Easy   |         [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/FindtheDifference.java)          |
+| 47  | 17/04 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                                                                          |  LeetCode  |  🟢 Easy   |             [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/RansomNote.java)             |
 
 </details>
 
