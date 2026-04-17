@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/12.5)
+![Progress](https://geps.dev/progress/12.75)
 
 - **Target:** 400 Problems
-- **Completed:** 50/400
+- **Completed:** 51/400
 - **Current Phase:** Phase 1
 
 ---
@@ -76,6 +76,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 43  | 16/04 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/1979828425/)                                                               |  LeetCode  |  🟢 Easy   |             [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/C/LengthofLastWord.c)             |
 | 44  | 17/04 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)                                                                            |  LeetCode  |  🟢 Easy   |         [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/IsomorphicStrings.java)          |
 | 45  | 17/04 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/)                                                                                        |  LeetCode  |  🟢 Easy   |            [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/WordPattern.java)             |
+| 46  | 17/04 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/)                                                                          |  LeetCode  |  🟢 Easy   |         [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/FindtheDifference.java)          |
 
 </details>
 
