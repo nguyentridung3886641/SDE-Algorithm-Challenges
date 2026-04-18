@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/13)
+![Progress](https://geps.dev/progress/13.25)
 
 - **Target:** 400 Problems
-- **Completed:** 52/400
+- **Completed:** 53/400
 - **Current Phase:** Phase 1
 
 ---
@@ -78,6 +78,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 45  | 17/04 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/)                                                                                        |  LeetCode  |  🟢 Easy   |            [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/WordPattern.java)             |
 | 46  | 17/04 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/)                                                                          |  LeetCode  |  🟢 Easy   |         [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/FindtheDifference.java)          |
 | 47  | 17/04 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                                                                          |  LeetCode  |  🟢 Easy   |             [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/RansomNote.java)             |
+| 48  | 17/04 | [Anagram](https://www.hackerrank.com/challenges/anagram/problem)                                                                                               | HackerRank |  🟢 Easy   |              [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/Anagram.java)               |
 
 </details>
 
