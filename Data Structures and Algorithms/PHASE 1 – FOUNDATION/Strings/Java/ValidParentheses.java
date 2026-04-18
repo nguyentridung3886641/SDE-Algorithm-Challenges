@@ -7,9 +7,8 @@ class Solution {
         Deque<Character> stack = new ArrayDeque<>();
         for (int i = 0; i < sLength; i++) {
             char charS = s.charAt(i);
-            if (charS == '(' || charS == '[' || charS == '{') {
+            if (charS == '(' || charS == '[' || charS == '{')
                 stack.push(charS);
-            }
             else {
                 if (stack.isEmpty())
                     return false;
@@ -28,6 +27,6 @@ class Solution {
                 }
             }
         }
-        return stack.isEmpty(); 
+        return stack.isEmpty();
     }
 }
