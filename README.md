@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/13.5)
+![Progress](https://geps.dev/progress/13.75)
 
 - **Target:** 400 Problems
-- **Completed:** 54/400
+- **Completed:** 55/400
 - **Current Phase:** Phase 1
 
 ---
@@ -80,6 +80,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 47  | 17/04 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/)                                                                                          |  LeetCode  |  🟢 Easy   |             [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/RansomNote.java)             |
 | 48  | 17/04 | [Anagram](https://www.hackerrank.com/challenges/anagram/problem)                                                                                               | HackerRank |  🟢 Easy   |              [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/Anagram.java)               |
 | 49  | 18/04 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                                                                              | HackerRank |  🟢 Easy   |          [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/ValidParentheses.java)          |
+| 50  | 20/04 | [Add Binary](https://leetcode.com/problems/add-binary/description/)                                                                                            |  LeetCode  |  🟢 Easy   |                [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/C/AddBinary.c)                 |
 
 </details>
 
