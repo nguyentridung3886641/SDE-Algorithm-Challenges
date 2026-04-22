@@ -6,26 +6,21 @@ class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         int sLength = s.length();
         int pLength = p.length();
-        int left = 0, right = 0;
         int[] pFreq = new int[26];
         int[] windowFreq = new int[26];
         List<Integer> res = new ArrayList<>();
         for (int i = 0; i < pLength; i++) {
             ++pFreq[p.charAt(i) - 'a'];
         }
-        while (right - left < pLength) {
-            ++windowFreq[right];
-            ++right;
-        }
-        if (Arrays.equals(pFreq, windowFreq))
-            res.add(left);
-        while (right < sLength) {
-            ++left;
-            ++right;
-            --windowFreq[left];
-            ++windowFreq[right];
-            if (Arrays.equals(pFreq, windowFreq))
-                res.add(left);
+        for (int r = 0; r < sLength; r++) {
+            ++windowFreq[s.charAt(r) - 'a'];
+            if (r >= pLength) {
+                --windowFreq[s.charAt(r - pLength) - 'a'];
+            }
+            if (r >= pLength - 1) {
+                if (Arrays.equals(pFreq, windowFreq))
+                    res.add(r - pLength + 1);
+            }
         }
         return res;
     }
