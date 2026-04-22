@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/14.5)
+![Progress](https://geps.dev/progress/14.75)
 
 - **Target:** 400 Problems
-- **Completed:** 58/400
+- **Completed:** 59/400
 - **Current Phase:** Phase 1
 
 ---
@@ -83,6 +83,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 50  | 20/04 | [Add Binary](https://leetcode.com/problems/add-binary/description/)                                                                                            |  LeetCode  |  🟢 Easy   |                [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/C/AddBinary.c)                 |
 | 51  | 23/04 | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)                                                                               | HackerRank |  🟢 Easy   |              [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/C/MakingAnagrams.c)              |
 | 52  | 23/04 | [Game of Thornes - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)                                                                           | HackerRank |  🟢 Easy   |          [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/GameofThornes-I.java)           |
+| 53  | 23/04 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)                                                                                       | HackerRank |  🟢 Easy   |             [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/TwoStrings.java)             |
 
 </details>
 
