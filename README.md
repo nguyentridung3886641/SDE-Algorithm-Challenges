@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/14)
+![Progress](https://geps.dev/progress/14.25)
 
 - **Target:** 400 Problems
-- **Completed:** 56/400
+- **Completed:** 57/400
 - **Current Phase:** Phase 1
 
 ---
