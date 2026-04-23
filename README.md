@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/14.75)
+![Progress](https://geps.dev/progress/15)
 
 - **Target:** 400 Problems
-- **Completed:** 59/400
+- **Completed:** 60/400
 - **Current Phase:** Phase 1
 
 ---
@@ -97,6 +97,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 03  | 12/04 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                             |  LeetCode  | 🟡 Medium  |        [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/CountAndSay.java)        |
 | 04  | 15/04 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)                                |  LeetCode  | 🟡 Medium  |  [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/WeightedUniformString.java)   |
 | 05  | 22/04 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |  LeetCode  | 🟡 Medium  | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/FindAllAnagramsinaString.java) |
+| 06  | 24/04 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)                     |  LeetCode  | 🟡 Medium  | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Linked%20List/Java/InsertionSortList.java)  |
 
 </details>
 
