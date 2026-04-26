@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/15.75)
+![Progress](https://geps.dev/progress/16)
 
 - **Target:** 400 Problems
-- **Completed:** 63/400
+- **Completed:** 64/400
 - **Current Phase:** Phase 1
 
 ---
@@ -86,6 +86,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 53  | 23/04 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)                                                                                       | HackerRank |  🟢 Easy   |                 [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/TwoStrings.java)                  |
 | 54  | 26/04 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/)                    |  LeetCode  |  🟢 Easy   | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/HowManyNumbersAreSmallerThantheCurrentNumber.java) |
 | 55  | 26/04 | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                                                                      |  LeetCode  |  🟢 Easy   |                    [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/BinarySearch.c)                    |
+| 56  | 27/04 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                                    |  LeetCode  |  🟢 Easy   |                [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/SearchInsertPosition.c)                |
 
 </details>
 
