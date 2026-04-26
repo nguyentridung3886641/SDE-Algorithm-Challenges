@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/16.25)
+![Progress](https://geps.dev/progress/16.5)
 
 - **Target:** 400 Problems
-- **Completed:** 65/400
+- **Completed:** 66/400
 - **Current Phase:** Phase 1
 
 ---
@@ -88,6 +88,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 55  | 26/04 | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                                                                      |  LeetCode  |  🟢 Easy   |                    [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/BinarySearch.c)                    |
 | 56  | 27/04 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                                    |  LeetCode  |  🟢 Easy   |                [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/SearchInsertPosition.c)                |
 | 57  | 27/04 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)                                                                              |  LeetCode  |  🟢 Easy   |               [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/FirstBadVersion.java)                |
+| 58  | 27/04 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)                                                        |  LeetCode  |  🟢 Easy   |           [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/GuessNumberHigherorLower.java)           |
 
 </details>
 
