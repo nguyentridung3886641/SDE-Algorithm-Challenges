@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/15.25)
+![Progress](https://geps.dev/progress/15.5)
 
 - **Target:** 400 Problems
-- **Completed:** 61/400
+- **Completed:** 62/400
 - **Current Phase:** Phase 1
 
 ---
@@ -91,14 +91,16 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 <details>
 <summary><b>🟡 MEDIUM PROBLEMS (SOLVED)</b></summary>
 
-| STT | Date  | Problem Name                                                                                              |  Platform  | Difficulty |                                                       Solution                                                       |
-| :-- | :---- | :-------------------------------------------------------------------------------------------------------- | :--------: | :--------: | :------------------------------------------------------------------------------------------------------------------: |
-| 01  | 16/03 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem)                  | HackerRank | 🟡 Medium  |       [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/RecursiveDigitSum.c)        |
-| 02  | 16/03 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem)                    | HackerRank | 🟡 Medium  |      [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/FibonacciModified.java)      |
-| 03  | 12/04 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                             |  LeetCode  | 🟡 Medium  |        [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/CountAndSay.java)        |
-| 04  | 15/04 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)                                |  LeetCode  | 🟡 Medium  |  [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/WeightedUniformString.java)   |
-| 05  | 22/04 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |  LeetCode  | 🟡 Medium  | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/FindAllAnagramsinaString.java) |
-| 06  | 24/04 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)                     |  LeetCode  | 🟡 Medium  | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Linked%20List/Java/InsertionSortList.java)  |
+| STT | Date  | Problem Name                                                                                                                    |  Platform  | Difficulty |                                                            Solution                                                            |
+| :-- | :---- | :------------------------------------------------------------------------------------------------------------------------------ | :--------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------: |
+| 01  | 16/03 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem)                                        | HackerRank | 🟡 Medium  |            [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/RecursiveDigitSum.c)             |
+| 02  | 16/03 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem)                                          | HackerRank | 🟡 Medium  |           [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/FibonacciModified.java)           |
+| 03  | 12/04 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                                                   |  LeetCode  | 🟡 Medium  |             [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/CountAndSay.java)             |
+| 04  | 15/04 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)                                                      |  LeetCode  | 🟡 Medium  |       [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/WeightedUniformString.java)        |
+| 05  | 22/04 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)                       |  LeetCode  | 🟡 Medium  |      [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/FindAllAnagramsinaString.java)      |
+| 06  | 24/04 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)                                           |  LeetCode  | 🟡 Medium  |      [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Linked%20List/Java/InsertionSortList.java)       |
+| 07  | 25/04 | [Design Linked List](https://leetcode.com/problems/design-linked-list/)                                                         |  LeetCode  | 🟡 Medium  |  [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Linked%20List/Java/DesignLinkedList-SingleLL.java)   |
+| 08  | 26/04 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) |  LeetCode  | 🟡 Medium  | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/PartitionArrayAccordingtoGivenPivot.java) |
 
 </details>
 
