@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/16.75)
+![Progress](https://geps.dev/progress/17)
 
 - **Target:** 400 Problems
-- **Completed:** 67/400
+- **Completed:** 68/400
 - **Current Phase:** Phase 1
 
 ---
@@ -106,6 +106,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 07  | 25/04 | [Design Linked List](https://leetcode.com/problems/design-linked-list/)                                                                            |  LeetCode  | 🟡 Medium  |            [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Linked%20List/Java/DesignLinkedList-SingleLL.java)             |
 | 08  | 26/04 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/)                    |  LeetCode  | 🟡 Medium  |           [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/PartitionArrayAccordingtoGivenPivot.java)           |
 | 09  | 26/04 | [Find First and Last Position in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |  LeetCode  | 🟡 Medium  | [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/Find%20First%20and%20LastPositionofElementinSortedArray.java) |
+| 10  | 01/05 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)                                        |  LeetCode  | 🟡 Medium  |               [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/SearchinRotatedSortedArray.java)                |
 
 </details>
 
