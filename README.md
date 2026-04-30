@@ -2,10 +2,10 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/17)
+![Progress](https://geps.dev/progress/17.25)
 
 - **Target:** 400 Problems
-- **Completed:** 68/400
+- **Completed:** 69/400
 - **Current Phase:** Phase 1
 
 ---
@@ -89,6 +89,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 56  | 27/04 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                                                                    |  LeetCode  |  🟢 Easy   |                [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/C/SearchInsertPosition.c)                |
 | 57  | 27/04 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)                                                                              |  LeetCode  |  🟢 Easy   |               [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/FirstBadVersion.java)                |
 | 58  | 27/04 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)                                                        |  LeetCode  |  🟢 Easy   |           [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/GuessNumberHigherorLower.java)           |
+| 59  | 01/05 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/description/)                                                                        |  LeetCode  |  🟢 Easy   |              [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/SortArraybyParity.java)               |
 
 </details>
 
@@ -101,7 +102,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 02  | 16/03 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem)                                                             | HackerRank | 🟡 Medium  |                     [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/FibonacciModified.java)                     |
 | 03  | 12/04 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                                                                      |  LeetCode  | 🟡 Medium  |                       [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/CountAndSay.java)                       |
 | 04  | 15/04 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)                                                                         |  LeetCode  | 🟡 Medium  |                 [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/WeightedUniformString.java)                  |
-| 05  | 22/04 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)                                          |  LeetCode  | 🟡 Medium  |                [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/FindAllAnagramsinaString.java)                |
+| 05  | 22/04 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)                                          |  LeetCode  | 🟡 Medium  |               [View](./Data%20Structures%20and%d20Algorithms/PHASE%201%20–%20FOUNDATION/Strings/Java/FindAllAnagramsinaString.java)                |
 | 06  | 24/04 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)                                                              |  LeetCode  | 🟡 Medium  |                [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Linked%20List/Java/InsertionSortList.java)                 |
 | 07  | 25/04 | [Design Linked List](https://leetcode.com/problems/design-linked-list/)                                                                            |  LeetCode  | 🟡 Medium  |            [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Linked%20List/Java/DesignLinkedList-SingleLL.java)             |
 | 08  | 26/04 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/)                    |  LeetCode  | 🟡 Medium  |           [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/PartitionArrayAccordingtoGivenPivot.java)           |
