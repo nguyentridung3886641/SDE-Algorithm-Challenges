@@ -27,7 +27,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 ## 🔥 Daily Problem Solving (Self-Practice)
 
 <details>
-<summary><b>🟢 EASY PROBLEMS (SOLVED)</b></summary>
+<summary><b>🟢 EASY PROBLEMS </b></summary>
 
 | STT | Date  | Problem Name                                                                                                                                                   |  Platform  | Difficulty |                                                                Solution                                                                 |
 | :-- | :---- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :--------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
@@ -95,7 +95,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 </details>
 
 <details>
-<summary><b>🟡 MEDIUM PROBLEMS (SOLVED)</b></summary>
+<summary><b>🟡 MEDIUM PROBLEMS </b></summary>
 
 | STT | Date  | Problem Name                                                                                                                                       |  Platform  | Difficulty |                                                                      Solution                                                                      |
 | :-- | :---- | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -116,7 +116,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 </details>
 
 <details>
-<summary><b>🔴 HARD PROBLEMS (Chinh phục đỉnh cao)</b></summary>
+<summary><b>🔴 HARD PROBLEMS </b></summary>
 
 | STT | Date  | Problem Name                                                                              | Platform |                                               Solution                                                |
 | :-- | :---- | :---------------------------------------------------------------------------------------- | :------: | :---------------------------------------------------------------------------------------------------: |
