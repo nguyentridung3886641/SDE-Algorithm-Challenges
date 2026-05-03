@@ -2,7 +2,7 @@
 
 ## 📊 Overall Progress
 
-![Progress](https://geps.dev/progress/18.25)
+![Progress](https://geps.dev/progress/18.75)
 
 - **Target:** 400 Problems
 - **Completed:** 75/400
