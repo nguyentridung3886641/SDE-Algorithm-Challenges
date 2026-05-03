@@ -92,7 +92,7 @@ _Mục tiêu là nắm vững các dạng bài phổ biến trong phỏng vấn 
 | 59  | 01/05 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/description/)                                                                        |  LeetCode  |  🟢 Easy   |              [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/SortArraybyParity.java)               |
 | 60  | 01/05 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/)                                                                          |  LeetCode  |  🟢 Easy   |              [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Arrays/Java/RelativeSortArray.java)               |
 | 61  | 03/05 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)                                                                                |  LeetCode  |  🟢 Easy   |                  [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/FibonacciNumber.c)                  |
-| 62  | 03/05 | [Add Digits](https://leetcode.com/problems/add-digits/description/)                                                                                            |  LeetCode  |  🟢 Easy   |                  [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/FibonacciNumber.c)                  |
+| 62  | 03/05 | [Add Digits](https://leetcode.com/problems/add-digits/description/)                                                                                            |  LeetCode  |  🟢 Easy   |                     [View](./Data%20Structures%20and%20Algorithms/PHASE%201%20–%20FOUNDATION/Recursion/AddDigits.c)                     |
 
 </details>
 
